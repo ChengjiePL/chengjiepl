@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hey there! I'm Chengjie Peng Lin  <br><br>💻 Passionate about **Cybersecurity** & **Frontend Development**  <br>🚀 Always learning new **technologies** and improving my skills  <br>🔐 Exploring **ethical hacking**, pentesting, and security challenges  <br>🎨 Love building **modern & interactive** web applications  <br>🌍 Open to collaboration and exciting new projects  <br><br>📌 **Tech Stack:** C++, Python, React, Bash, Linux, JavaScript  <br>📫 **Let's connect!** → [GitHub](https://github.com/ChengjiePL)  <br>
+## 👋 Hey there! I'm Chengjie Peng Lin  <br><br>💻 Passionate about **Cybersecurity** & **Frontend Development**  <br>🚀 Always learning new **technologies** and improving my skills  <br>🔐 Exploring **ethical hacking**, pentesting, and security challenges  <br>🎨 Love building **modern & interactive** web applications  <br>🌍 Open to collaboration and exciting new projects  <br>
 
 
 ## 🌐 Socials:
